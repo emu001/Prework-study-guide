@@ -1,16 +1,9 @@
 {
 	"folders": [
-		{
-			"path": "."
-
-		},
-		{
-			"path": "../../Downloads/UofW-VIRT-FSF-PT-11-2023-U-LOLC-main/01-HTML-Git-CSS/01-Activities"
-		},
-		{
-			"path": "../../Downloads/UofW-VIRT-FSF-PT-11-2023-U-LOLC-main/01-HTML-Git-CSS/02-Challenge"
-		}
-	],
+        {
+            "path": "../../Downloads/UofW-VIRT-FSF-PT-11-2023-U-LOLC-main/01-HTML-Git-CSS"
+        }
+    ],
 	
 
 
